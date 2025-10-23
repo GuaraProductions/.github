@@ -1,12 +1,16 @@
 ## Seja bem vindo ao Guará Produções! 👋
 
-<!--
+## Jogos feito em live 
 
-**Here are some ideas to get you started:**
+- [Endless runner de carro feito no Godot Mobile](https://github.com/GuaraProductions/midnight-guara)
+- [Jogo de Terror feito no Godot Engine 4.3](https://github.com/GuaraProductions/Panik)
+- [Pong Multiplayer no Godot Engine 4](https://github.com/GuaraProductions/Pong3DMultiplayer)
+- [O Jogo mais Dificil do Mundo, so que no Godot 4 e com C#](https://github.com/GuaraProductions/JogoMaisDificilCSharp)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Implementação de Algoritmos
+
+- [Geração Procedural de Dungeons 2D](https://github.com/GuaraProductions/geracaoprocedural2d)
+
+# Plugins feitos por mim
+
+- [Configurações generalista para o Godot](https://github.com/GuaraProductions/godot-simple-config)
