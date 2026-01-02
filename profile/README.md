@@ -7,6 +7,7 @@
 - [Jogo de Terror feito no Godot Engine 4.3](https://github.com/GuaraProductions/Panik)
 - [Pong Multiplayer no Godot Engine 4](https://github.com/GuaraProductions/Pong3DMultiplayer)
 - [O Jogo mais Dificil do Mundo, so que no Godot 4 e com C#](https://github.com/GuaraProductions/JogoMaisDificilCSharp)
+- [Jogo clicker com tema natalino para 2025](https://github.com/GuaraProductions/christmas-clicker)
 
 ## Implementação de Algoritmos
 
