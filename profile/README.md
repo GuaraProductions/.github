@@ -12,6 +12,7 @@
 ## Implementação de Algoritmos
 
 - [Geração Procedural de Dungeons 2D](https://github.com/GuaraProductions/geracaoprocedural2d)
+  - [Geração Procedural de Dungeons 2D, dessa vez em C++](https://github.com/GuaraProductions/godot-2d-dungeon-generation)
 
 # Plugins feitos por mim
 
